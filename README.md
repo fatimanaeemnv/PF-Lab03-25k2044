@@ -5,9 +5,9 @@ I love programming and problem solving!
 # MY FISRT HEADING
 ## MY SECOND HEADING 
 unordered list of fruits
--apple
--banana
--mangoes
+- apple
+- banana
+- mangoes
 ordered list of vegetables
 1. tomatoes
 2. potatoes
